@@ -5,4 +5,11 @@
 ```
 npm install
 ```
+
+## Seção teste
+
 Teste
+
+## Usuário padrão
+
+email@email.com
