@@ -5,3 +5,7 @@
 ```
 npm install
 ```
+
+## Usuário padrão
+
+email@email.com
